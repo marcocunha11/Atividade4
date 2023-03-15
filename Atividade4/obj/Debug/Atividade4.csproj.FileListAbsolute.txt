@@ -1,0 +1,8 @@
+H:\Julio\Atividade4\obj\Debug\Atividade4.csproj.AssemblyReference.cache
+H:\Julio\Atividade4\obj\Debug\Atividade4.csproj.SuggestedBindingRedirects.cache
+H:\Julio\Atividade4\obj\Debug\Atividade4.csproj.CoreCompileInputs.cache
+H:\Julio\Atividade4\bin\Debug\Atividade4.exe.config
+H:\Julio\Atividade4\bin\Debug\Atividade4.exe
+H:\Julio\Atividade4\bin\Debug\Atividade4.pdb
+H:\Julio\Atividade4\obj\Debug\Atividade4.exe
+H:\Julio\Atividade4\obj\Debug\Atividade4.pdb
